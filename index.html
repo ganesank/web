@@ -40,7 +40,12 @@ background: linear-gradient(120deg, #155799, #159957);
 }
 
 body #swipebox-slider .slide,body .loader {
-    background: #1a1e24 url(dark_loader.gif) no-repeat center;
+   background: -webkit-linear-gradient(120deg, #155799, #159957);
+background: -moz-linear-gradient(120deg, #155799, #159957));
+background: -ms-linear-gradient(120deg, #155799, #159957);
+background: -o-linear-gradient(120deg, #155799, #159957));
+background: linear-gradient(120deg, #155799, #159957);
+    color: #ffffff;
 }
 
 body .description {
@@ -786,7 +791,7 @@ body.scaling-animation .main .triggers {
 
 <body class="circular-animation">
 
-    <div class="loader"></div>
+    <div class="loader"> <i class="fa fa-circle-o-notch  fa-spin"></i> </div>
     <div class="main">
         <!-- Cricle -->
         <div class="circle">
@@ -875,7 +880,7 @@ body.scaling-animation .main .triggers {
 </div></div></div>
         </div>
         <!-- End Page Container -->
-<script src="http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
+
 
         <script type="text/javascript" src="js/main.min.js"></script>
         <script type="text/javascript">
