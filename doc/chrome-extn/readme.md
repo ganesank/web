@@ -41,6 +41,10 @@ Code editor and runner, with HTML CSS Javascript and php<br><br>
 bootstrap-twitter-offline<br>
 Easy access offline for Bootstrap Twitter Docs<br><br>
 builtwith-technology-prof<br>
+css3-generator<br>
+A handy generator for all of your CSS3 needs from within the browser<br><br>
+colorzilla
+Advanced Eyedropper, Color Picker, Gradient Generator and other colorful goodies
 Find out what the website you are visiting is built with using this extension<br><br>
 cssviewer<br>
 A simple CSS property viewer.<br><br>
